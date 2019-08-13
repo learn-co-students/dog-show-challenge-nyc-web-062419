@@ -18,6 +18,11 @@ th {
   font-weight: bold;
 }
 
+td {
+  width: 10em;
+  padding: 0.5em;
+}
+
 .center {
   text-align: center;
 }
